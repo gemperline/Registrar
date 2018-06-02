@@ -2,7 +2,9 @@ CSUF CPSC 131, Fall 2018
 Project 1
 
 
-// This program will create a student registry (memory bank) where various bits of student information can be stored, retrieved, and managed. 
+// This program will create a student registry (memory bank) where various bits of student information can be stored, retrieved, and managed.
+
+// Student data will be read from text files and stored accordingly in respective data structures
 
 
 
