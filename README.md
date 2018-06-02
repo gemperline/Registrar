@@ -1,6 +1,12 @@
 CSUF CPSC 131, Fall 2018
 Project 1
 
+
+// This program will create a student registry (memory bank) where various bits of student information can be stored, retrieved, and managed. 
+
+
+
+
 Alexander Feldman (Section 3) feldman0007@csu.fullerton.edu
 
 
